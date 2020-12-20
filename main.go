@@ -1,7 +1,5 @@
 package main
 
-//go:generate goversioninfo -icon=icon.ico -manifest=goversioninfo.exe.manifest
-
 import (
     "fmt"
     "net/http"
